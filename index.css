@@ -1,0 +1,34 @@
+.abc {
+  color: rgb(187, 100, 0);
+  font-size: 50px;
+  text-align: center;
+  font-family: 'Pixelify Sans', sans-serif;
+  position: relative;
+  top: 50px;
+}
+.contain {
+  
+  background-image: url("bg.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color: rgb(208, 224, 255);
+}
+.aaaa {
+  margin-left: 1000px;
+  /* margin-bottom: 150px;   */
+}
+.bbbb {
+  position: relative;
+  left: 500px;
+  bottom: 50px;
+}
+.abcd{
+ position: relative;
+ top:150px;
+ right: 150;
+}
+.cccc{
+  position:relative ;
+  left: 600px;
+}
